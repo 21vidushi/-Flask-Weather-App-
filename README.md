@@ -29,4 +29,4 @@ Technologies Used
 1. Flask: Python web framework used for building the backend of the application.
 2. OpenWeatherMap API: Provides weather data for the app.
 3. HTML/CSS/Bootstrap: Frontend technologies used for designing the user interface.
-4. JavaScript: Used for client-side interactivity and making asynchronous requ
+4. JavaScript: Used for client-side interactivity and making asynchronous requests.
