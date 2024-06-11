@@ -1,5 +1,5 @@
 # -Flask-Weather-App-
-Live Demo Link: https://flask-weather-app-lei0.onrender.com/weather/
+Live Demo Link: https://flask-weather-app-lei0.onrender.com/
 
 
 
